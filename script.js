@@ -32,7 +32,9 @@ const siteConfig = {
         {
             id: "produits",
             title: "🛒 Produits",
-            links: []
+            links: [
+                { name: "Shop Digital", url: "https://www.patreon.com/Manager967"}
+            ]
         }
     ]
 };
